@@ -2,15 +2,6 @@
 
 I’m deeply interested in cybersecurity and enjoy turning that interest into hands-on learning. Through my projects, I’m building experience across areas such as vulnerability management, threat detection, cloud security, and security operations while continuously strengthening my technical skills. Please feel free to explore my work and get a closer look at how I approach security challenges, problem-solving, and continuous learning.
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
 <hr/>
 
 ## 🤳 Connect With Me
