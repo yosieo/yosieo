@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/yosieo/">Yosie Octavia</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/yosieo/">Yosie</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I’m deeply interested in cybersecurity and enjoy turning that interest into hands-on learning. Through my projects, I’m building experience across areas such as vulnerability management, threat detection, cloud security, and security operations while continuously strengthening my technical skills. Please feel free to explore my work and get a closer look at how I approach security challenges, problem-solving, and continuous learning.
 
