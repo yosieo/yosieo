@@ -5,7 +5,7 @@ Cybersecurity student in Stockholm focusing on **GRC, DORA and security operatio
 - 🏦 Information Security Intern at a Swedish fintech: third-party risk, user access reviews, compliance
 - 🛡️ SOC experience with Microsoft Sentinel, Defender for Endpoint, KQL and Tenable
 - 🧩 3 years as Security Champion in product teams at H&M Group
-- 🎓 MSc Advanced Digital Technologies for Business, University of Bologna
+- 🎓 MSc student in Advanced Digital Technologies for Business, University of Bologna (expected May 2027)
 
 ## 🗂️ Featured projects
 
