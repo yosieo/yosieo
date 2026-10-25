@@ -1,6 +1,27 @@
 # <a href="https://www.linkedin.com/in/yosieo/">Yosie</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I’m deeply interested in cybersecurity and enjoy turning that interest into hands-on learning. Through my projects, I’m building experience across areas such as vulnerability management, threat detection, cloud security, and security operations while continuously strengthening my technical skills. Please feel free to explore my work and get a closer look at how I approach security challenges, problem-solving, and continuous learning.
+Cybersecurity student in Stockholm focusing on **GRC, DORA and security operations**.
+
+- 🏦 Information Security Intern at a Swedish fintech: third-party risk, user access reviews, compliance
+- 🛡️ SOC experience with Microsoft Sentinel, Defender for Endpoint, KQL and Tenable
+- 🧩 3 years as Security Champion in product teams at H&M Group
+- 🎓 MSc Advanced Digital Technologies for Business, University of Bologna
+
+## 🗂️ Featured projects
+
+| Project | What it does | Skills |
+|---|---|---|
+| [Logon Threat Hunter](https://github.com/yosieo/logn-bruteforce-hunter) | Detects brute force, password spraying and successful logons after an attack in Defender logon data, mapped to MITRE ATT&CK | Python, KQL, threat hunting |
+| [Access Review Automation](https://github.com/yosieo/access-review-automation) | Automates user access reviews across systems, with ISO 27001 and DORA control mapping and audit-ready evidence | Python, GRC, IAM |
+| [AZ-900 Cloud Infrastructure](https://github.com/yosieo/az900-cloud-infrastructure) | Hands-on Azure lab: VNets, VMs, NSGs, Blob Storage, RBAC, Azure Policy, resource locks and cost planning | Azure, cloud security, governance |
+
+## 🛠️ Tools & frameworks
+
+Microsoft Sentinel · Defender for Endpoint · KQL · Tenable · Azure · Python · PowerShell · ISO/IEC 27001 · DORA · MITRE ATT&CK
+
+## 🌱 Currently learning
+
+DevSecOps: building security scanning (SAST, DAST, dependency checks) into CI/CD pipelines.
 
 <hr/>
 
@@ -10,9 +31,4 @@ I’m deeply interested in cybersecurity and enjoy turning that interest into ha
 [![Email](https://img.shields.io/badge/Email-Contact_Me-lightgrey?logo=gmail)][email]
 
 [linkedin]: https://www.linkedin.com/in/yosieo/
-[email]: mailto:yosie.octavia@gmail.com
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+[email]: mailto:yosie.octavia@proton.me
