@@ -1,27 +1,41 @@
-# <a href="https://www.linkedin.com/in/yosieo/">Yosie</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/yosieo/">Yosie</a>'s Information Security Project Portfolio 🔐
 
-Cybersecurity student in Stockholm focusing on **GRC, DORA and security operations**.
+I hunt threats with KQL in Microsoft Sentinel and Defender for Endpoint, and I automate security controls with Python. Before security, I worked in UX and was a Security Champion in product teams at H&M Group. Feel free to explore the projects below.
 
-- 🏦 Information Security Intern at a Swedish fintech: third-party risk, user access reviews, compliance
-- 🛡️ SOC experience with Microsoft Sentinel, Defender for Endpoint, KQL and Tenable
-- 🧩 Former Security Champion in product teams at H&M Group
-- 🎓 MSc student in Advanced Digital Technologies for Business, University of Bologna (expected May 2027)
+---
 
-## 🗂️ Featured projects
+## 🚨 Threat Hunting and Security Operations
 
-| Project | What it does | Skills |
-|---|---|---|
-| [Logon Threat Hunter](https://github.com/yosieo/logn-bruteforce-hunter) | Detects brute force, password spraying and successful logons after an attack in Defender logon data, mapped to MITRE ATT&CK | Python, KQL, threat hunting |
-| [Access Review Automation](https://github.com/yosieo/access-review-automation) | Automates user access reviews across systems, with ISO 27001 and DORA control mapping and audit-ready evidence | Python, GRC, IAM |
-| [AZ-900 Cloud Infrastructure](https://github.com/yosieo/az900-cloud-infrastructure) | Hands-on Azure lab: VNets, VMs, NSGs, Blob Storage, RBAC, Azure Policy, resource locks and cost planning | Azure, cloud security, governance |
+- **[Threat Hunt: Operation QUARTZFANG](https://github.com/yosieo/threat-hunt-operation-quartzfang)**: Investigation of an AI-directed intrusion in Microsoft Sentinel (KQL): SSRF, credential theft, lateral movement and exfiltration across 4 hosts, plus proving which of the AI agent's claims were false
+- **[Logon Threat Hunter](https://github.com/yosieo/logn-bruteforce-hunter)**: Python and KQL tool that detects brute force, password spraying and success-after-attack logons in Defender logon events, mapped to MITRE ATT&CK
+
+## 📋 Governance, Risk and Compliance (GRC)
+
+- **[Access Review Automation](https://github.com/yosieo/access-review-automation)**: Python tool that flags leavers with access, orphaned and stale accounts, and excessive admin rights, with ISO 27001 and DORA control mapping
+
+## ☁️ Cloud Security
+
+- **[AZ-900 Cloud Infrastructure Lab](https://github.com/yosieo/az900-cloud-infrastructure)**: Hands-on Azure lab covering VNets, VMs, NSGs, Blob Storage, RBAC, Azure Policy, resource locks and cost planning
+
+## 🎨 UX Design
+
+- **[UX Portfolio](https://github.com/yosieo/ux-portfolio)**: My UX design portfolio site, hand-built with HTML, CSS and JavaScript
+
+---
+
+## 💼 Experience
+
+- **Information Security Intern**, Swedish fintech: third-party risk, user access reviews, compliance
+- **SOC work** with Microsoft Sentinel, Defender for Endpoint, KQL and Tenable
+- **Security Champion**, product teams at H&M Group
+
+## 🎓 Education
+
+- **MSc Advanced Digital Technologies for Business**, University of Bologna (expected May 2027)
 
 ## 🛠️ Tools & frameworks
 
 Microsoft Sentinel · Defender for Endpoint · KQL · Tenable · Azure · Python · PowerShell · ISO/IEC 27001 · DORA · MITRE ATT&CK
-
-## 🌱 Currently learning
-
-DevSecOps: building security scanning (SAST, DAST, dependency checks) into CI/CD pipelines.
 
 <hr/>
 
