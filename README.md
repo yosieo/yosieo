@@ -12,6 +12,7 @@
 ## 📋 Governance, Risk and Compliance (GRC)
 
 - **[Access Review Automation](https://github.com/yosieo/access-review-automation)**: Python tool that flags leavers with access, orphaned and stale accounts, and excessive admin rights, with ISO 27001 and DORA control mapping
+- **[Windows 11 STIG Remediations](https://github.com/yosieo/windows-stig-remediations)**: PowerShell scripts that remediate 10 failed DISA Windows 11 STIG findings, each with a PASS/FAIL check and revert, validated before and after with Tenable compliance scans
 
 ## ☁️ Cloud Security
 
