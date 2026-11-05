@@ -27,7 +27,7 @@
 
 - **Information Security Intern**, Swedish fintech: third-party risk, user access reviews, compliance
 - **SOC work** with Microsoft Sentinel, Defender for Endpoint, KQL and Tenable
-- **Security Champion**, product teams at H&M Group
+- **Security Champion**, product teams at a Swedish global e-commerce
 
 ## 🎓 Education
 
