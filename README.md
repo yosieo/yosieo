@@ -26,13 +26,13 @@
 
 ## 💼 Experience
 
-- **Information Security Intern**, Anyfin: third-party risk, user access reviews, compliance
-- **SOC work** with Microsoft Sentinel, Defender for Endpoint, KQL and Tenable
+- **Information Security Intern**, Anyfin: third-party risk management, user access reviews, compliance, security awareness
+- **SOC work**, with Microsoft Sentinel, Defender for Endpoint, KQL and Tenable
 - **Security Champion**, product teams at H&M Group
 
 ## 🎓 Education
 
-- **MSc Advanced Digital Technologies for Business**, University of Bologna (expected May 2027)
+- **MSc in Advanced Digital Technologies for Business**, University of Bologna (expected May 2027)
 
 ## 🛠️ Tools & frameworks
 
