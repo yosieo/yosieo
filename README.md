@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/yosieo/">Yosie</a>'s Information Security Project Portfolio 🔐
 
-👋 Hi, I’m Yosie, an MSc student in Digital Transformation based in Stockholm, currently interning in Information Security at Anyfin. I come from UX, where I also served as a Security Champion in product teams at H&M Group, and I’m now moving into cybersecurity. This repo documents what I learn along the way. 
+👋 Hi, I’m Yosie, an MSc student in Digital Transformation based in Stockholm, currently interning in Information Security at Swedish fintech company. I come from UX, where I also served as a Security Champion in product teams at H&M Group, and I’m now moving into cybersecurity. This repo documents what I learn along the way. 
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 💼 Experience
 
-- **Information Security Intern**, Anyfin: third-party risk management, user access reviews, compliance, security awareness
+- **Information Security Intern**, Swedish fintech: third-party risk management, user access reviews, compliance, security awareness
 - **SOC work**, with Microsoft Sentinel, Defender for Endpoint, KQL and Tenable
 - **Security Champion**, product teams at H&M Group
 
